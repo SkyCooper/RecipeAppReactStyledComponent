@@ -46,17 +46,16 @@ Project(folder)
 
 ### Dependencies
 
-- react-dom@6.3
+- react-router-dom@6.3
 
 - axios
 
-- react-router
-
-- https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-
 - styled-components
 
-- bootstrap
+- bootstrap , react-bootstrap
+
+- https://api.edamam.com/search?q=${food}&app_id=${appID}&app_key=${appKey}&mealType=${mealType}
+
 
 ### Overview
 
