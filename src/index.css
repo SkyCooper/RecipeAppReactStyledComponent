@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952_960_720.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 6rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+  background-color: rgba(225, 221, 82, 0.678);
+  box-shadow: 10px 10px 5px 0px rgba(63, 63, 40, 0.915);
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+input {
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: rgba(120, 117, 117, 0.482);
+  color: aliceblue;
+}
+
+.links {
+  text-decoration: none;
+  border: 1px solid rgb(251, 248, 248);
+  padding: 1rem 2rem;
+  margin-left: 1rem;
+  border-radius: 1rem;
+    background-color: rgba(225, 221, 82, 0.678);
+  color: rgb(0, 0, 0);
+}
+
+.mynavbar{
+  background-color: rgba(32, 25, 25, 0.482);
+  min-height: 6rem;
+}
+
+.cardBody{
+  background-color: rgba(32, 25, 25, 0.482);
+}
+
+@media (max-width:900px) {
+  .mynavbar{
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+  }
+
+
+}
+
+@media (max-width:810px) {
+  .cardImg{
+    max-width: 10rem;
+  }
+
+  .form{
+    flex-direction: column;
+    max-width: 10rem;
+  }
+
+  /* .product{
+    max-width: 15rem;
+    border: 2px solid red;
+  } */
+}
