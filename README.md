@@ -73,6 +73,7 @@ Project(folder)
 │    ├── App.js
 │    ├── index.js
 │    ├── recipe.gif
+│    ├── edemam-APIkey-instructions.pdf
 └── package.json
 ```
 
