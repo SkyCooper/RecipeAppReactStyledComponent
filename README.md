@@ -98,7 +98,7 @@ You can see the visual representation of the website above.
 
 - Step 1: Create React App using `npx create-react-app recipe-app`
 
-- Step 2: For images you can use [Images](./src/assests).
+- Step 2: For images you can use [Images](./src/assets).
 
 - Step 3: Push your application into your own public repo on Github
 
@@ -106,7 +106,7 @@ You can see the visual representation of the website above.
 
 ## Resources
 
-- 🔥 You can use [`edemam API`](https://api.edamam.com/search?q=${food}&app_id=${appID}&app_key=${appKey}&mealType=${mealType}) for your own work.
+- 🔥 You can use [`edemam API`](https://www.edamam.com/) for your own work.
 
 ## Support
 - Open an Issue, I will check it a soon as possible 👀
