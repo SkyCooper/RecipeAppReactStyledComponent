@@ -1,7 +1,7 @@
 
 # Project : Recipe App (Styled Components)
 
-## Check The Live Website ➡️ [Live Website](https://skycooper.github.io)
+## Check The Live Website ➡️ [Live Website](https://recipeapp-cooper.netlify.app/)
 
 ## Visualization of the Website
 
