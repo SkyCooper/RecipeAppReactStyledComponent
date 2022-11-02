@@ -108,6 +108,8 @@ You can see the visual representation of the website above.
 
 - 🔥 You can use [`edemam API`](https://www.edamam.com/) for your own work.
 
+- 🔥 For instructions you can use [`instructions PDF](./edemam-APIkey-instructions.pdf) for your own work.
+
 ## Support
 - Open an Issue, I will check it a soon as possible 👀
 
