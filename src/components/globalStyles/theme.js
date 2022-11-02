@@ -1,7 +1,7 @@
 const theme = {
   colors: {
-    navbarBgColor: "#cca248",
-    mainColor: "rgba(217, 228, 93, 0.423);",
+    navbarBgColor: "#d1da71",
+    mainColor: "#99e090",
     logoColor: "'#393e46',",
   },
   screens: {

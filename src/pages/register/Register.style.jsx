@@ -11,7 +11,8 @@ export const HomeImg = styled.img`
 `;
 
 export const HeaderText = styled.h1`
+  margin-top: 2rem;
   font-size: 4rem;
-  color: #968155;
+  color: #d35930;
   text-align: center;
 `;

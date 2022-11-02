@@ -15,6 +15,7 @@ export const Card = styled(Flex)`
   box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.3);
   &:hover {
     box-shadow: none;
+    transform:scale(0.97) ;
     transition: all 0.3s ease-in;
   }
 `;
