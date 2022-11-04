@@ -13,12 +13,15 @@ const Home = () => {
   const [query, setQuery] = useState("");
   const [selectedMeal, setSelectedMeal] = useState("");
   const [recipes, setRecipes] = useState(null);
-  const mealType = ["Select Meal","Breakfast", "Lunch", "Dinner", "Snack", "Teatime"];
+  const mealType = [
+    "Select Meal",
+    "Breakfast",
+    "Lunch",
+    "Dinner",
+    "Snack",
+    "Teatime",
+  ];
   const urlv2 = `https://api.edamam.com/api/recipes/v2?type=any&beta=false&q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}&mealType=${selectedMeal}`;
-  
-  // const urlv1 = `https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}&mealType=${selectedMeal}`;
-
-  
 
   const getMeal = async () => {
     if (query) {
