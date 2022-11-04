@@ -1,7 +1,7 @@
 
 # Project : Recipe App (Styled Components)
 
-## Check The Live Website ➡️ https://recipeapp-cooper.netlify.app/
+## Check The Live Website ➡️ https://chimerical-florentine-2fc71f.netlify.app/
 
 ## Visualization of the Website
 
